@@ -1,0 +1,15 @@
+{
+  "name": "Acute pathways",
+  "short_name": "Acute pathways",
+  "description": "Discharge checks, ABG and ECG interpreters and NICE pathways.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF0F3",
+  "theme_color": "#2D3A8C",
+  "lang": "en-GB",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
